@@ -1,5 +1,5 @@
 # Time-GPT
-# Time Series Forecasting Framework: Time-GPT vs. LightGBM (with TDA)
+# Time Series Forecasting Framework: Time-GPT vs. LightGBM (with TDA) vs. Powerformer
 
 โครงงานวิจัยและพัฒนาสถาปัตยกรรมระบบพยากรณ์ข้อมูลอนุกรมเวลาความละเอียดสูง (Multi-Granular Time Series Forecasting) สำหรับข้อมูลที่มีความถี่ทุก 30 นาที โดยมุ่งเน้นการเปรียบเทียบประสิทธิภาพการทำ Day-Ahead Forecasting แบบไร้การรั่วไหลของข้อมูล (Zero Data Leakage) ระหว่างโมเดลระดับรากฐาน Time-GPT (Nixtla), LightGBM (พร้อมฟีเชอร์ TDA) และระบบสถิติอ้างอิง Powerformer Sliding Window
 
